@@ -1,5 +1,5 @@
 # Reducer
-Reducer wieght prediction
+Reducer weight prediction
 
 Входный параметры задаются в файле data\input.csv
 Выходные значения находятся в файле data\output.csv
